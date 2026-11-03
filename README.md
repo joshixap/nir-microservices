@@ -9,13 +9,13 @@
 ```
 .
 ├── docs/
-│   └── postanovka_zadachi.md          ← постановка задачи НИР
+│   └── postanovka_zadachi.md
 ├── sources/
-│   └── bibliography.md                ← список источников с пояснениями
+│   └── bibliography.md
 ├── tools/
-│   ├── style_check.py                 ← проверка стиля конспектов
-│   └── lt_check.py                    ← грамматика и пунктуация через LanguageTool
-└── 01_history_and_features/           ← история и особенности микросервисов
+│   ├── style_check.py
+│   └── lt_check.py
+└── 01_history_and_features/
     ├── 01_istoriya_mikroservisov.md
     ├── 02_osobennosti_i_problemy.md
     └── 03_plan_lektsii.md
