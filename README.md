@@ -18,5 +18,6 @@
 └── 01_history_and_features/
     ├── 01_istoriya_mikroservisov.md
     ├── 02_osobennosti_i_problemy.md
-    └── 03_plan_lektsii.md
+    ├── 03_plan_lektsii.md
+    └── 04_otchet.md
 ```
