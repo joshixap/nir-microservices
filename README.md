@@ -20,9 +20,14 @@
 │   ├── 02_osobennosti_i_problemy.md
 │   ├── 03_plan_lektsii.md
 │   └── 04_otchet.md
-└── 02_multi_agent_system_history_and_features/
-    ├── 01_istoriya_mas.md
-    ├── 02_osobennosti_i_problemy_mas.md
-    ├── 03_sravnenie_s_mikroservisami.md
+├── 02_multi_agent_system_history_and_features/
+│   ├── 01_istoriya_mas.md
+│   ├── 02_osobennosti_i_problemy_mas.md
+│   ├── 03_sravnenie_s_mikroservisami.md
+│   └── 04_plan_lektsii.md
+└── 03_coordination_problems/
+    ├── 01_mikroservisy.md
+    ├── 02_mnogoagentnye_sistemy.md
+    ├── 03_itog_i_napravleniya.md
     └── 04_plan_lektsii.md
 ```
